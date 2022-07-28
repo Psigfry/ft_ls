@@ -7,4 +7,7 @@ Clone the repository to a directory.</br>
 https://github.com/Psigfry/ft_ls.git
 ```
 Run make to compile the library.</br>
-```cd ft_ls && make && make clean```</br>
+```
+cd ft_ls && make && make clean
+```
+</br>
